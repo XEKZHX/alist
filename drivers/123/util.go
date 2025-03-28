@@ -203,8 +203,8 @@ do:
 		"referer":       "https://www.123pan.com/",
 		"authorization": "Bearer " + d.AccessToken,
 		"user-agent":    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) alist-client",
-		"platform":      "android",
-		"app-version":   "3",
+		"app-version": "61",
+		"x-app-version": "2.4.0",
 		//"user-agent":    base.UserAgent,
 	})
 	if callback != nil {
