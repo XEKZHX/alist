@@ -122,7 +122,7 @@ https://alist.nn.ci/guide/sponsor.html
 ## Contributors
 
 Thanks goes to these wonderful people:
-<img width="100px" src=".github/485c2921a7edfddf9324f561a081e935.png"/>
+<img width="100px" src=".github/1.jpg"/>
 
 ## License
 
