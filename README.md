@@ -1,5 +1,5 @@
-1<div align="center">
-  <a href="https://alist.nn.ci"><img width="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg"/></a>
+<div align="center">
+  <a href="https://alist.nn.ci"><img width="100px" alt="logo" src="blob:https://github.com/2768c868-ae2a-4168-97ed-356ead4dc752"/></a>
   <p><em>🗂️A file list program that supports multiple storages, powered by Gin and Solidjs.</em></p>
 <div>
   <a href="https://goreportcard.com/report/github.com/alist-org/alist/v3">
