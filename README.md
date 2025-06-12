@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://alist.nn.ci"><img width="100px" alt="logo" src=".github/c3139dee3b5c6db4633229353c38d78e.jpg"/></a>
-  <p><em>🗂️A file list program that supports multiple storages, powered by Gin and Solidjs.</em></p>
+  <p><em>🗂️ALIST is dead.</em></p>
 <div>
   <a href="https://goreportcard.com/report/github.com/alist-org/alist/v3">
     <img src="https://goreportcard.com/badge/github.com/alist-org/alist/v3" alt="latest version" />
@@ -113,16 +113,10 @@ Please go to our [discussion forum](https://github.com/alist-org/alist/discussio
 AList is an open-source software, if you happen to like this project and want me to keep going, please consider sponsoring me or providing a single donation! Thanks for all the love and support:
 https://alist.nn.ci/guide/sponsor.html
 
-### Special sponsors
-
-- [VidHub](https://apps.apple.com/app/apple-store/id1659622164?pt=118612019&ct=alist&mt=8) - An elegant cloud video player within the Apple ecosystem. Support for iPhone, iPad, Mac, and Apple TV.
-- [亚洲云](https://www.asiayun.com/aff/QQCOOQKZ) - 高防服务器|服务器租用|福州高防|广东电信|香港服务器|美国服务器|海外服务器 - 国内靠谱的企业级云计算服务提供商 (sponsored Chinese API server)
-- [找资源](http://zhaoziyuan2.cc/) - 阿里云盘资源搜索引擎
-
 ## Contributors
 
 Thanks goes to these wonderful people:
-<img width="800px" src=".github/1.jpg"/>
+<img width="800px" src=".github/1.png"/>
 
 ## License
 
